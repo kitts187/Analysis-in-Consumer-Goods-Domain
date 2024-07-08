@@ -4,3 +4,6 @@ sort them in descending order of product counts. The final output contains
 segment 
 product_count*/
 
+SELECT segment, COUNT(DISTINCT(product_code)) AS product_count FROM dim_product
+GROUP BY segment
+ORDER BY product_count DESC ;
