@@ -1,7 +1,7 @@
 # Analysis-in-Consumer-Goods-Domain
-Link for live dashboard - https://app.powerbi.com/view?r=eyJrIjoiNTJlNmE2N2EtNjI5Yi00MDkwLWFlYTctZTJkYmU5YzdiYzc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Link for live dashboard - 
 
-
+https://app.powerbi.com/view?r=eyJrIjoiNTJlNmE2N2EtNjI5Yi00MDkwLWFlYTctZTJkYmU5YzdiYzc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
