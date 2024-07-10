@@ -1,5 +1,5 @@
 # Analysis-in-Consumer-Goods-Domain
-Link for live dashboard -
+Link for live dashboard - https://app.powerbi.com/view?r=eyJrIjoiNTJlNmE2N2EtNjI5Yi00MDkwLWFlYTctZTJkYmU5YzdiYzc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
